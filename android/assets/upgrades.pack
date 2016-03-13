@@ -1,0 +1,110 @@
+
+upgrades.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+headsets
+  rotate: false
+  xy: 1, 3
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: 0
+headsets
+  rotate: false
+  xy: 1, 3
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: 1
+background
+  rotate: false
+  xy: 323, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 485, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 0
+chair
+  rotate: false
+  xy: 485, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 1
+comp
+  rotate: false
+  xy: 647, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 0
+comp
+  rotate: false
+  xy: 647, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 1
+flower
+  rotate: false
+  xy: 809, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 0
+flower
+  rotate: false
+  xy: 809, 243
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 1
+monitor
+  rotate: false
+  xy: 323, 1
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 0
+monitor
+  rotate: false
+  xy: 323, 1
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 1
+table
+  rotate: false
+  xy: 485, 1
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 0
+table
+  rotate: false
+  xy: 485, 1
+  size: 160, 240
+  orig: 160, 240
+  offset: 0, 0
+  index: 1
+telephone
+  rotate: false
+  xy: 647, 178
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: 2
+telephone
+  rotate: false
+  xy: 971, 465
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: 1

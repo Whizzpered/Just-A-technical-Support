@@ -1,0 +1,26 @@
+
+gui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+notebook
+  rotate: false
+  xy: 1, 1
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+sheet
+  rotate: false
+  xy: 643, 1
+  size: 640, 960
+  orig: 640, 960
+  offset: 0, 0
+  index: -1
+note1
+  rotate: false
+  xy: 1285, 816
+  size: 159, 145
+  orig: 159, 145
+  offset: 0, 0
+  index: -1
