@@ -73,6 +73,7 @@ public class Market extends Stage{
 
     @Override
     public void act(float delta) {
+        MYGDXGAME.game.act(delta);
         gui.act(delta);
     }
 

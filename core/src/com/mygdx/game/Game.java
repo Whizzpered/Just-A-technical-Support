@@ -83,13 +83,13 @@ public class Game extends Stage {
     public void draw(Batch b, String mess, float x, float y, Color color, fontSizes size) {
         if (size == Game.fontSizes.STANDART) {
             font.setColor(color);
+            font.getData().setScale(0.8f);
             font.draw(b, mess, x, y);
         }
         if (size == Game.fontSizes.BIG) {
-            font.getData().setScale(1.4f);
+            font.getData().setScale(1f);
             font.setColor(color);
             font.draw(b, mess, x, y);
-            font.getData().setScale(1f);
         }
     }
 
