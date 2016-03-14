@@ -48,7 +48,7 @@ public class Upgrade {
         } else {
             sprite = upgrades.createSprite(name, 10);
         }
-        sprite.setScale(2.625f);
+        sprite.setScale(3f);
     }
 
     public void draw(Batch batch, float parentX, float parentY) {

@@ -11,7 +11,7 @@ public class MyGdxGame extends ApplicationAdapter {
     public Game game;
     public Market market;
     public EndDay end;
-    public static StretchViewport vp = new StretchViewport(420, 700);
+    public static StretchViewport vp = new StretchViewport(480, 800);
 
     @Override
     public void create() {

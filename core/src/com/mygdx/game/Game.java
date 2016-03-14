@@ -109,14 +109,14 @@ public class Game extends Stage {
         upgrades = loader.get("upgrades.pack");
         background = atlas.createSprite("background");
         GUIUtils.GUI_ATLAS = loader.get("gui.pack");
-        background.setScale(2.625f);
+        background.setScale(3f);
         background.setOrigin(0, 0);
-        background.setPosition(0, 70);
+        background.setPosition(0, 80);
         desk = atlas.createSprite("desk");
         desk.setPosition(0, -10);
         for (int i = 0; i < 3; i++) {
             Sprite s = atlas.createSprite("hero", i);
-            s.setScale(2f);
+            s.setScale(3f);
             workAnimation.add(s);
         }
         font = new BitmapFont(Gdx.files.internal("font.fnt"));

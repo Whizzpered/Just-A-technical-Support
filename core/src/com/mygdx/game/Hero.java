@@ -61,7 +61,7 @@ public class Hero extends Actor {
 
     public void setSprite() {
         sprite = getStage().atlas.createSprite("hero", 0);
-        sprite.setScale(2f);
+        sprite.setScale(3f);
         sprite.setOrigin(sprite.getWidth() / 2, sprite.getHeight() / 2);
         setWidth(sprite.getWidth());
         setHeight(sprite.getHeight());
